@@ -6,6 +6,7 @@
 In this project, we will analyze a dataset and then communicate your findings about it. we will use the Python libraries NumPy, pandas, and Matplotlib to make our analysis easier.
 
 **What do we need to install?**
+
 We will need an installation of Python, plus the following libraries:
 
 * pandas
