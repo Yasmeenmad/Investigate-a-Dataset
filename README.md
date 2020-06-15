@@ -3,7 +3,7 @@
 ## Investigate-a-Dataset
 
 ### Project Overview
-In this project, we will analyze a dataset and then communicate your findings about it. we will use the Python libraries NumPy, pandas, and Matplotlib to make our analysis easier.
+In this project, we will analyze a dataset and then communicate our findings about it. we will use the Python libraries NumPy, pandas, and Matplotlib to make our analysis easier.
 
 **What do we need to install?**
 
